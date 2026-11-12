@@ -59,3 +59,8 @@ If you want to learn more about building native executables, please consult http
 Easily start your REST Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started-reactive#reactive-jax-rs-resources)
+
+### Test the app examples:
+````
+curl -X POST -H "Content-Type: text/plain" -d "Estou planejando uma viagem ao Japão. Qual a melhor epoca do ano para visitar e por que?" http://localhost:8080/travel
+````
