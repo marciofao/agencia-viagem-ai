@@ -1,5 +1,5 @@
-### Pacote Aventurq Amazônia
-* D uração: 7 dias e 6 noites.
+### Pacote Aventura Amazônia
+* Duração: 7 dias e 6 noites.
 * Atividades: Focagem noturna de jacarés, caminhada na selva, visita a comunidades ribei
 * Politica de cancelamento: Reembolso de 80% com 30 dias de antecedência.
 * Preço: R$ 4.500,00 por pessoa.
